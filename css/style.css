@@ -1,0 +1,38 @@
+.button-buy{
+    background-color: #111B47;
+    color:white
+}
+.button-buy-light{
+    background-color: transparent;
+    color:#111B47;
+    border: 2px solid #111B47;
+    font-weight: bold;
+}
+.text-color{
+    color:#37447E;
+}
+
+.p-80{
+    padding: 0 80px;
+}
+.div-image{
+    background-image: url('../images/designer_1.png');
+    background-repeat: no-repeat;
+    background-position-x: right;
+    height: 100%;
+    width: 100%;
+    background-size: 49rem;
+    min-height: 52rem;
+}
+
+.card-info{
+    min-height: 30rem;
+    left: 290px;
+    top: 200px;
+    max-width: 450px;
+    position: absolute;
+}
+
+.text-color-bold{
+    color:#091133
+}
